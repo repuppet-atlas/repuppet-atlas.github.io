@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://repuppet-atlas.github.io/sitemap.xml
